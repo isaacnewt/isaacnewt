@@ -25,7 +25,11 @@ Hi there! I'm Isaac, welcome to my GitHub. 🌱
 ![image](https://user-images.githubusercontent.com/53093640/217236578-78d66fbb-91f7-4772-b216-fbd03f26cf11.png)
 ![image](https://user-images.githubusercontent.com/53093640/217236611-a8f0de45-75ac-45f3-9882-3d416ebfef19.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacnewt&hide=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacnewt&show_icons=true&hide=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnewt&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 isaacnewt/isaacnewt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
