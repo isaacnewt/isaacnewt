@@ -34,7 +34,17 @@
   <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/217236611-a8f0de45-75ac-45f3-9882-3d416ebfef19.png">
 </div>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
+<div align="center"> 
+<a href="https://github.com/isaacnewt/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=" />
+</a>
+<a href="https://github.com/isaacnewt/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=Robotic_manipulator_arm" />
+</a>
+</div>
+  
 <!---
 --->
 
