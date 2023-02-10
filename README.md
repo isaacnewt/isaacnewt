@@ -32,6 +32,16 @@
   <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/217236524-3659b513-7a8e-4e47-84e3-3bd1c4a3dd2d.png">
   <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/217236578-78d66fbb-91f7-4772-b216-fbd03f26cf11.png">
   <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/217236611-a8f0de45-75ac-45f3-9882-3d416ebfef19.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219177-4bc0b7fd-a056-42a6-9554-ec207d7e5864.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219172-3f832274-a3b9-4661-a5a3-4f2877161f9c.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219130-a654a926-7ee2-4df7-adbf-aab61e6e52ba.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219125-49db5dec-1e56-4d48-9107-61ef66691c97.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219123-2424c9c2-bd94-4174-935f-2c4d6c0dc3db.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219063-900039e3-dea2-427e-92f6-d94267c67861.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219131-ff0d5e29-1b19-4e28-ac76-34c6255fa6c7.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219173-a3e8687c-2624-40ff-8e73-47f814401359.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219041-125e229d-871e-4bfa-878a-e469d297cd56.png">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/218219128-f645d3c4-5ce7-4886-8fd8-363408ed7325.png">
 </div>
   
 <br/>
