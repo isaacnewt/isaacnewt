@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/isaacnewt">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=isaacnewt&show_icons=true&count_private=true&theme=dark&show_owner=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnewt&layout=compact&langs_count=8&theme=gradient))">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnewt&layout=compact&langs_count=10&theme=gradient))">
 </div>
 
 
