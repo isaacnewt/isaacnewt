@@ -33,15 +33,22 @@
   <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/217236578-78d66fbb-91f7-4772-b216-fbd03f26cf11.png">
   <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/53093640/217236611-a8f0de45-75ac-45f3-9882-3d416ebfef19.png">
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
+<br/>
+<hr />
   
 <div align="center"> 
-<a href="https://github.com/isaacnewt/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=" />
+<a href="https://github.com/isaacnewt/Car-Price-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=Car-Price-Prediction" />
 </a>
 <a href="https://github.com/isaacnewt/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=Robotic_manipulator_arm" />
+</a>
+<a href="https://github.com/isaacnewt/ETL_pipeline_for_ecommerce_clickstream">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=ETL_pipeline_for_ecommerce_clickstream" />
+</a>
+<a href="https://github.com/isaacnewt/selective_search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isaacnewt&repo=selective_search" />
 </a>
 </div>
   
